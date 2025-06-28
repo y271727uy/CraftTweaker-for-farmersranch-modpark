@@ -1,4 +1,4 @@
-# CraftTweaker-for-farmersranch-modpark
+# CraftTweaker for farmersranch modpark
 这里是Farmer's Ranch整合包脚本库的CraftTweaker部分
 
 这部分脚本不同于KubeJS使用JavaScript驱动而是使用了CraftTweaker团队开发的ZenScript语言驱动
