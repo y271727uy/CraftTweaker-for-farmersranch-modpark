@@ -1,0 +1,4 @@
+# CraftTweaker-for-farmersranch-modpark
+这里是Farmer's Ranch整合包脚本库的CraftTweaker部分
+这部分脚本不同于KubeJS使用JavaScript驱动而是使用了CraftTweaker团队开发的ZenScript语言驱动
+鉴于KubeJS的kubejs\assets\kubejs\textures文件下有大量来自于LGPL-3.0协议项目的贴图资源，故作为该项目的构成之一的ZenScript需要遵循LGPT-3.0
